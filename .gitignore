@@ -1,3 +1,9 @@
+# Ignore Mac system files
+.DS_store
+*.py~
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
